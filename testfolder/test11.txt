@@ -1,5 +1,0 @@
-
-
-# Details:
-Description: test
-Author: test
