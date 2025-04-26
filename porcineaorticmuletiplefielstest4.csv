@@ -1,0 +1,8 @@
+# Related Details: publisheddataset
+# Additional Notes: experimentaldetails
+
+File Name,Model,Optimized Parameters,RMSE
+Sample3_0.5_circumferential.csv,Model2,12.8096 | 41.797,0.1587
+Sample2_0.5_circumferential.csv,Model2,11.723 | 36.4269,0.1194
+Sample1_0.5_circumferential.csv,Model2,12.9459 | 42.4619,0.1626
+Sample3_0.2_radial.csv,Model2,0.4743 | 1.6698,0.0264
