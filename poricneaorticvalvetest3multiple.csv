@@ -1,0 +1,7 @@
+File Name,Model,Optimized Parameters,RMSE
+Sample2_0.5_radial.csv,Model1,0.1711,0.0946
+Sample1_0.5_radial.csv,Model1,0.2161,0.094
+Sample3_0.5_circumferential.csv,Model1,3.0578,0.8259
+Sample2_0.5_circumferential.csv,Model1,3.1611,0.6885
+Sample1_0.5_circumferential.csv,Model1,3.0638,0.8517
+Sample3_0.2_radial.csv,Model1,0.2293,0.1245
